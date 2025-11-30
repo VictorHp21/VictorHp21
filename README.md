@@ -104,9 +104,8 @@ Me Chamo Victor Henrique, tenho 24 anos, sou apaixonado por tecnologia e atualme
 
 ### 📊 Estatísticas
 
-<div align="center">
-
-  <!-- Estatísticas principais -->
+<p>
+      <!-- Estatísticas principais -->
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -120,8 +119,10 @@ Me Chamo Victor Henrique, tenho 24 anos, sou apaixonado por tecnologia e atualme
     height="200" 
     src="https://githubstatsmy.vercel.app/api/top-langs/?username=VictorHp21&layout=compact&langs_count=9&theme=ambient_gradient&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br"
   />
+</p>
 
-</div>
+
+
 
 
 
