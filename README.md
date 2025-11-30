@@ -110,14 +110,14 @@ Me Chamo Victor Henrique, tenho 24 anos, sou apaixonado por tecnologia e atualme
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 20px;" 
-    src="https://githubstatsmy.vercel.app/api?username=VictorHp21&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true&locale=pt-br"
+    src="https://githubstatsmy.vercel.app/api?username=VictorHp21&show_icons=true&theme=neon&include_all_commits=true&count_private=true&locale=pt-br"
   />
 
   <!-- Linguagens mais usadas -->
   <img 
     alt="Linguagens Mais Usadas" 
     height="200" 
-    src="https://githubstatsmy.vercel.app/api/top-langs/?username=VictorHp21&layout=compact&langs_count=9&theme=ambient_gradient&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br"
+    src="https://githubstatsmy.vercel.app/api/top-langs/?username=VictorHp21&layout=compact&langs_count=9&theme=neon&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br"
   />
 </p>
 
