@@ -104,20 +104,10 @@ Me Chamo Victor Henrique, tenho 24 anos, sou apaixonado por tecnologia e atualme
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VictorHp21&show_icons=true&theme=ambient_gradient&include_all_commits=true&locale=pt-br" 
-  />
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHp21&theme=ambient_gradient&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![](https://raw.githubusercontent.com/VictorHp21/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/VictorHp21/github-stats-transparent/output/generated/languages.svg)
 
-</p>
+</a>
+
