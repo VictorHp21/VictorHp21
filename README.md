@@ -1,8 +1,8 @@
 # 🧑🏽‍💻 Victor Henrique
 
-**`Estudando para Desenvolvedor Back-end`**
+**`Desenvolvedor Full Stack`**
 
-Me Chamo Victor Henrique, tenho 24 anos, sou apaixonado por tecnologia e atualmente estudante de Sistemas de Informação na Faculdade Anhanguera em Uberlândia, Minas Gerais. Estou focado em aprimorar meus conhecimentos em desenvolvimento back-end, explorando tecnologias modernas e práticas de programação para se tornar um profissional qualificado na área de desenvolvimento de software.".
+Me Chamo Victor Henrique, tenho 24 anos, sou apaixonado por tecnologia e atualmente estudante de Sistemas de Informação na Faculdade Anhanguera em Uberlândia, Minas Gerais. Estou focado em aprimorar meus conhecimentos em desenvolvimento Full Stack, explorando tecnologias modernas e práticas de programação para se tornar um profissional qualificado na área de desenvolvimento de software.".
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victor-henrique-cunha-moreira-01b67b211" target="_blank">
