@@ -34,10 +34,11 @@ O que você vai encontrar aqui
 
 Neste GitHub você vai ver:
 
-Exercícios de programação
-Projetos acadêmicos
-Projetos pessoais
-Testes e experimentos enquanto evoluo como desenvolvedor
+- Exercícios de programação
+- Projetos acadêmicos
+- Projetos pessoais
+- Práticas e anotações para consulta pessoal
+- Testes e experimentos enquanto evoluo como desenvolvedor
 
 
 ---
