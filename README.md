@@ -28,7 +28,16 @@ Olá me chamo Victor Henrique, tenho 25 anos, sou apaixonado por tecnologia e at
     
 </p>
 
+O que você vai encontrar aqui
 ---
+
+
+Neste GitHub você vai ver:
+
+Exercícios de programação
+Projetos acadêmicos
+Projetos pessoais
+Testes e experimentos enquanto evoluo como desenvolvedor
 
 
 ---
