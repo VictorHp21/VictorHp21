@@ -228,17 +228,6 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
 
 ---
 
-## 🏆 Troféus do GitHub
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=VictorHp21&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1"
-    alt="Troféus do GitHub"
-    width="100%"
-  />
-</p>
-
----
 
 ## 🐍 Minhas contribuições
 
