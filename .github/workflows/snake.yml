@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: VictorHp21
           outputs: |
-           dist/snake.svg?color_snake=%236A0DAD&color_dots=%230F0F0F,%2300CC44,%2300CC44,%2300CC44,%2300CC44
+           dist/snake.svg?color_snake=%236A0DAD&color_dots=%2316152E,%2300CC44,%2300CC44,%2300CC44,%2300CC44
 
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
