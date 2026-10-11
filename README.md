@@ -216,18 +216,6 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
 
 ---
 
-## 📈 Gráfico de atividade
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VictorHp21&theme=tokyo-night&hide_border=true&area=true"
-    alt="Gráfico de atividade do GitHub"
-    width="100%"
-  />
-</p>
-
----
-
 
 ## 🐍 Minhas contribuições
 
