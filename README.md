@@ -232,7 +232,7 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:5B2C83,100:141321&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:5B2C83,100:141321&height=120&section=footer"
     alt="Rodapé personalizado"
     width="100%"
   />
