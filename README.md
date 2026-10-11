@@ -1,51 +1,102 @@
 # 🧑🏽‍💻 Victor Henrique
 
-**`Estudante de TI com foco no Backend`**
+<!-- BANNER PERSONALIZADO -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:5B2C83,100:9B59B6&height=220&section=header&text=Victor%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Backend%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=55"
+    alt="Banner de Victor Henrique"
+    width="100%"
+  />
+</p>
 
-Olá me chamo Victor Henrique, tenho 25 anos, sou apaixonado por tecnologia e atualmente estudante de Sistemas de Informação na Faculdade Anhanguera em Uberlândia, Minas Gerais. Estou focado em aprimorar meus conhecimentos em desenvolvimento Backend, explorando tecnologias modernas e práticas de programação para se tornar um profissional qualificado na área de desenvolvimento de software.
+<!-- ANIMAÇÃO DE DIGITAÇÃO -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Backend;Java+%7C+Spring+Boot+%7C+MySQL;Sempre+aprendendo+e+evoluindo"
+    alt="Animação de digitação"
+  />
+</p>
 
-**`Obs.: Tenho conhecimento inicial em front-end, no qual você encontrará alguns projetos neste perfil.`**
+---
+
+## 👨🏽‍💻 Sobre mim
+
+Olá! Me chamo **Victor Henrique**, tenho 25 anos, sou apaixonado por tecnologia e estudante de **Sistemas de Informação na Faculdade Anhanguera, em Uberlândia, Minas Gerais**.
+
+Atualmente, meu foco está no desenvolvimento Backend, especialmente com Java, Spring Boot e MySQL. Busco aprimorar meus conhecimentos em programação, modelagem de dados, desenvolvimento de APIs REST e construção de sistemas.
+
+Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e transformar os conhecimentos adquiridos em soluções funcionais.
+
+- 🎓 Estudante de Sistemas de Informação.
+- ☕ Foco em Java e desenvolvimento Backend.
+- 🗄️ Estudos em bancos de dados relacionais e MySQL.
+- 🔧 Praticando Git, GitHub e desenvolvimento de APIs.
+- 🚀 Sempre buscando evoluir e aprender novas tecnologias.
+
+> 💡 **Observação:** também tenho conhecimentos iniciais em Frontend, por isso você encontrará alguns projetos dessa área no meu perfil.
+
+---
+
+## 🌐 Redes sociais e contato
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/victor-henrique-cunha-moreira-01b67b211" target="_blank">
-        <img
-            alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Victor%20Henrique-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-        />
-    </a>
-
+  <a href="https://www.linkedin.com/in/victor-henrique-cunha-moreira-01b67b211" target="_blank">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Victor%20Henrique-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://victorhp21.github.io/Meu-portfolio/#home" target="_blank">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-Acesse%20aqui-9B59B6?logo=github&logoColor=white&style=for-the-badge"
+      alt="Portfólio"
+    />
+  </a>
+  <a href="https://github.com/VictorHp21" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-VictorHp21-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 </p>
-
-</p>
-
-<p align = "left">
-      <a href="https://victorhp21.github.io/Meu-portfolio/#home" target="_blank">
-        <img
-            alt="Portfólio"
-            title="Veja meu portfólio"
-            src="https://custom-icon-badges.demolab.com/badge/Portfolio-Victor%20Henrique-9B59B6?logo=github&logoColor=white&style=for-the-badge" 
-            />
-        
-    
-</p>
-
-O que você vai encontrar aqui
----
-
-
-Neste GitHub você vai ver:
-
-- Exercícios de programação
-- Projetos acadêmicos
-- Projetos pessoais
-- Práticas e anotações para consulta pessoal
-- Testes e experimentos enquanto evoluo como desenvolvedor
-
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📂 O que você vai encontrar aqui
+
+- 💻 Exercícios e práticas de programação.
+- 🎓 Projetos acadêmicos.
+- 🛠️ Projetos pessoais e experimentos.
+- 🗄️ Estudos envolvendo bancos de dados.
+- 📚 Anotações e conteúdos para consulta.
+- 🚀 Projetos desenvolvidos durante minha evolução como programador.
+
+---
+
+## 🚀 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/VictorHp21/Sistema-RH">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHp21&repo=Sistema-RH&theme=midnight-purple&hide_border=true"
+      alt="Projeto Sistema RH"
+    />
+  </a>
+  <a href="https://github.com/VictorHp21/Meu-portfolio">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHp21&repo=Meu-portfolio&theme=midnight-purple&hide_border=true"
+      alt="Projeto Meu Portfólio"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Confira meus repositórios para conhecer outros projetos e acompanhar minha evolução.</i>
+</p>
+
+---
+
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -133,7 +184,6 @@ Neste GitHub você vai ver:
 <br/>
 <br/>
 
-
 ### 📊 Estatísticas
 
 <p>
@@ -153,10 +203,65 @@ Neste GitHub você vai ver:
   />
 </p>
 
+---
 
+## 🔥 Sequência de contribuições
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=VictorHp21&theme=midnight-purple&hide_border=true&locale=pt_BR"
+    alt="GitHub Streak"
+  />
+</p>
 
+---
 
+## 📈 Gráfico de atividade
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VictorHp21&theme=tokyo-night&hide_border=true&area=true"
+    alt="Gráfico de atividade do GitHub"
+    width="100%"
+  />
+</p>
 
+---
 
+## 🏆 Troféus do GitHub
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=VictorHp21&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1"
+    alt="Troféus do GitHub"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/VictorHp21/VictorHp21/output/snake.svg"
+    alt="Animação da cobrinha percorrendo minhas contribuições do GitHub"
+    width="100%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:5B2C83,100:141321&height=120&section=footer"
+    alt="Rodapé personalizado"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <b>Feito com dedicação por Victor Henrique</b>
+  <br/>
+  <i>Transformando aprendizado em projetos, um commit de cada vez. 💜</i>
+</p>
