@@ -3,7 +3,7 @@
 <!-- BANNER PERSONALIZADO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:8A2BE2,100:BF00FF&height=220&section=header&text=Victor%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Backend%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:5B2C83,100:9B59B6&height=220&section=header&text=Victor%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Backend%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=55"
     alt="Banner de Victor Henrique"
     width="100%"
   />
