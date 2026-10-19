@@ -28,11 +28,11 @@ Atualmente, meu foco está no desenvolvimento Backend, especialmente com Java, S
 
 Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e transformar os conhecimentos adquiridos em soluções funcionais.
 
-- 🎓 Estudante de Sistemas de Informação.
-- ☕ Foco em Java e desenvolvimento Backend.
-- 🗄️ Estudos em bancos de dados relacionais e MySQL.
-- 🔧 Praticando Git, GitHub e desenvolvimento de APIs.
-- 🚀 Sempre buscando evoluir e aprender novas tecnologias.
+-  Estudante de Sistemas de Informação.
+-  Foco em Java e desenvolvimento Backend.
+-  Estudos em bancos de dados relacionais e MySQL.
+-  Praticando Git, GitHub e desenvolvimento de APIs.
+-  Sempre buscando evoluir e aprender novas tecnologias.
 
 > 💡 **Observação:** também tenho conhecimentos iniciais em Frontend, por isso você encontrará alguns projetos dessa área no meu perfil.
 
@@ -71,12 +71,12 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
 
 ## 📂 O que você vai encontrar aqui
 
-- 💻 Exercícios e práticas de programação.
-- 🎓 Projetos acadêmicos.
-- 🛠️ Projetos pessoais e experimentos.
-- 🗄️ Estudos envolvendo bancos de dados.
-- 📚 Anotações e conteúdos para consulta.
-- 🚀 Projetos desenvolvidos durante minha evolução como programador.
+-  Exercícios e práticas de programação.
+-  Projetos acadêmicos.
+-  Projetos pessoais e experimentos.
+-  Estudos envolvendo bancos de dados.
+-  Anotações e conteúdos para consulta.
+-  Projetos desenvolvidos durante minha evolução como programador.
 
 ---
 
