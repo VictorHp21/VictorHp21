@@ -47,7 +47,7 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
       alt="LinkedIn"
     />
   </a>
-
+  &nbsp;&nbsp;
   
   <a href="https://victorhp21.github.io/Meu-portfolio/#home" target="_blank">
     <img
@@ -55,7 +55,7 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
       alt="Portfólio"
     />
   </a>
-
+  &nbsp;&nbsp;
   
   <a href="https://github.com/VictorHp21" target="_blank">
     <img
