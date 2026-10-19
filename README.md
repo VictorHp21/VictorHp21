@@ -47,12 +47,16 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
       alt="LinkedIn"
     />
   </a>
+
+  
   <a href="https://victorhp21.github.io/Meu-portfolio/#home" target="_blank">
     <img
       src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-Acesse%20aqui-9B59B6?logo=github&logoColor=white&style=for-the-badge"
       alt="Portfólio"
     />
   </a>
+
+  
   <a href="https://github.com/VictorHp21" target="_blank">
     <img
       src="https://img.shields.io/badge/GitHub-VictorHp21-181717?style=for-the-badge&logo=github&logoColor=white"
