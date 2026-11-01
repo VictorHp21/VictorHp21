@@ -223,7 +223,7 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
 
 ---
 
-🌆 My Contribution City
+🌆 Minha cidade de contribuições
 
 <div align="center">
 
