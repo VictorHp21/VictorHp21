@@ -223,6 +223,17 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
 
 ---
 
+🌆 My Contribution City
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D Contributions"/>
+
+</div>
+
+
+---
+
 
 ## 🐍 Minhas contribuições
 
