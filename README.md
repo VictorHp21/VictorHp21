@@ -59,12 +59,14 @@ Gosto de aprender na prática, desenvolver projetos pessoais e acadêmicos e tra
   &nbsp;&nbsp;
   &nbsp;&nbsp;
   
-  <a href="https://github.com/VictorHp21" target="_blank">
+  
+<a href="https://github.com/VictorHp21" target="_blank">
     <img
-        src="https://img.shields.io/github/followers/VictorHp21?style=for-the-badge&logo=github&logoColor=white&label=GitHub%20Followers"
-        alt="GitHub Followers"
+        src="https://img.shields.io/badge/GitHub-VictorHp21-181717?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub - VictorHp21"
     />
 </a>
+
 </p>
 
 ---
